@@ -8,10 +8,29 @@ export interface PhotoMetadata {
   iso: number;
   usedAperture: number;
   shutterSpeed: string;
-  time: Temporal.Instant;
+  time: string;
   lensInfo: LensInfo;
   cameraModel: string;
   bitDepth: number;
   dpi: number;
   resolution: { width: number; height: number };
+}
+
+export interface BackEndPhotoMetadata {
+  iso: number;
+  usedAperture: number;
+  shutterSpeed: string;
+  time: string;
+  lensInfo: {
+    focalLength: number;
+    aperture: number;
+    lensName: string;
+  };
+  cameraModel: string;
+  bitDepth: number;
+  dpi: number;
+  resolution: {
+    width: number;
+    height: number;
+  };
 }

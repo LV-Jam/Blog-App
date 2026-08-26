@@ -1,5 +1,7 @@
 [
   {
+    "slug": "golden-hour-over-the-ridge",
+    "url": "https://unsplash.it/400/500/",
     "title": "Golden Hour Over the Ridge",
     "description": "Sunset light breaking through clouds over a mountain ridge, shot on a late autumn evening.",
     "fileSize": 8452301,
@@ -21,6 +23,8 @@
     }
   },
   {
+    "slug": "rainy-night-on-5th-avenue",
+    "url": "https://unsplash.it/700/400/",
     "title": "Rainy Night on 5th Avenue",
     "description": "Long exposure of taxi light trails reflecting off wet pavement in downtown traffic.",
     "fileSize": 12290144,
@@ -42,6 +46,8 @@
     }
   },
   {
+    "slug": "portrait-in-window-light",
+    "url": "https://unsplash.it/560/900/",
     "title": "Portrait in Window Light",
     "description": "Natural light portrait using a north-facing window as a soft key light source.",
     "fileSize": 6120890,
@@ -63,6 +69,8 @@
     }
   },
   {
+    "slug": "frozen-falls",
+    "url": "https://unsplash.it/640/700/",
     "title": "Frozen Falls",
     "description": "Long exposure of a partially frozen waterfall in early morning fog.",
     "fileSize": 15873220,
@@ -84,6 +92,8 @@
     }
   },
   {
+    "slug": "peregrine-in-flight",
+    "url": "https://unsplash.it/600/950/",
     "title": "Peregrine in Flight",
     "description": "A peregrine falcon captured mid-dive during a falconry demonstration.",
     "fileSize": 9982345,
@@ -105,6 +115,8 @@
     }
   },
   {
+    "slug": "neon-alley",
+    "url": "https://unsplash.it/500/600/",
     "title": "Neon Alley",
     "description": "A narrow alleyway lit entirely by overlapping neon signage, shot handheld.",
     "fileSize": 7345981,
