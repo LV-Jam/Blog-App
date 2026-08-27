@@ -1,4 +1,3 @@
-// components/Nav.tsx
 'use client';
 
 import { NavLink } from './NavLink';
